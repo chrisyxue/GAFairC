@@ -1,6 +1,7 @@
 # Group AdaBoost with Fairness Constraint
 
 The source codes for paper 'Group AdaBoost with Fairness Constraint' accepted by SDM 23
+
 [Paper]()
 
 ## Architecture
