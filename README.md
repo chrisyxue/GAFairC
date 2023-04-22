@@ -23,6 +23,7 @@ vis_boosting.ipynb
 ### real-world data
 ```
 cd real_world_data
+# For every sh file, change <your-file-path> to the log path you prefer
 
 # Run Baselines via Vallina Evaluating Benchmarks
 sh run_baseline.sh
