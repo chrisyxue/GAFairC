@@ -12,6 +12,9 @@ The source codes for paper 'Group AdaBoost with Fairness Constraint' accepted by
 ```setup
 pip install fairlearn 
 pip install torch
+
+cd real_world_data/DataPreprocessing
+unzip kdd.zip
 ```
 
 ## Running
