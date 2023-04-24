@@ -44,3 +44,4 @@ sh run_group_adaboost_dif_imbalance.sh
 ## Reference
 The experiments are based on the code of [AdaFair](https://github.com/iosifidisvasileios/AdaFair.git) 
 
+Please contact xzy990228@gmail.com if you have any problem.
