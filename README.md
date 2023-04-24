@@ -3,6 +3,7 @@
 The source codes for paper 'Group AdaBoost with Fairness Constraint' accepted by SDM 23
 
 [Paper](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977653.ch97)
+
 [Appendix](https://github.com/chrisyxue/GAFairC/blob/main/Appendix.pdf)
 
 ## Architecture
